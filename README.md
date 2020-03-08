@@ -2,7 +2,7 @@
 
 This is a github app demo.
 
-you can download from [there](https://github.com/wangbufan0/flutter_github_app/apk/app-release.apk)
+you can download from [there](https://github.com/wangbufan0/flutter_github_app/raw/master/apk/app-release.apk)
 
 and this is some screenshots
 

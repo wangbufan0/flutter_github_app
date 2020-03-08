@@ -1,6 +1,12 @@
 # flutter_github_app
 
-A new Flutter application for github.
+This is a github app demo.
+
+you can download from [there](https://github.com/wangbufan0/flutter_github_app/apk/app-release.apk)
+
+and this is some screenshots
+
+<img width="200" src="./screenshots/2.png"/><img width="200" src="./screenshots/1.png"/><img width="200" src="./screenshots/3.png"/>
 
 ## Getting Started
 
